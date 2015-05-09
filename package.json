@@ -1,0 +1,7 @@
+{
+  "name": "progprobs",
+  "version": "1.0.0",
+  "description": "Programming Problems",
+  "main": "index.js",
+  "license": "MIT"
+}
